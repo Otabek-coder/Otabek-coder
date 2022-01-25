@@ -1,5 +1,5 @@
 ### Hey there, 👋 I'm Otabek
-* 🙎🏻‍♂️ I'm...
+  🙎🏻‍♂️ I'm...
     * 🔭 currently working on myself 🤓
     * 🌱 currently trying to improve my problem solving skills
     * 💯 currently trying to be expert in React
@@ -44,7 +44,7 @@
 
 
 [website]: https://
-[facebook]: https://www.facebook.com/profile.php?id=100043707515577
+[facebook]:https://www.linkedin.com/in/otabek-askarov-32800922b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B00FXelq3TMy%2FikVImTVsxg%3D%3D
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/askarov9009
 [linkedin]: https://https://www.linkedin.com/in/otabek-askarov-32800922b
