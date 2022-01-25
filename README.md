@@ -1,12 +1,11 @@
 ### Hey there, 👋 I'm Otabek
 * 🙎🏻‍♂️ I'm...
-    * 🔭 currently working on myself 🤣
+    * 🔭 currently working on myself 🤓
     * 🌱 currently trying to improve my problem solving skills
     * 💯 currently trying to be expert in React
     * 👯 looking to collaborate with React developers
-
-* 💬 Ask me about anything available in google 😎
-* ⚡ Fun fact: Have high passion to learn anything that I don't know
+    * 💬 Ask me about anything available in google 😎
+    * ⚡ Fun fact: Have high passion to learn anything that I don't know
 
 ### Connect with me: ⬇
 
@@ -15,7 +14,7 @@
 [<img align="left" alt="statkclee | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-
+<br/>
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
@@ -29,7 +28,7 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
 
-
+<br/>
 
 
 ![pexels-miguel-á-padriñán-1591060](https://user-images.githubusercontent.com/65924250/150973484-08f795bd-c3b1-4dea-a091-f78be007917a.jpg)
