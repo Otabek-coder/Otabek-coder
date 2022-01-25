@@ -1,4 +1,4 @@
-### HI There, 👋 I'm Otabek
+### Hi There, 👋 I'm Otabek
 
 * 🙎🏻‍♂️ I'm...
     * 🔭 currently working on myself 🤓
