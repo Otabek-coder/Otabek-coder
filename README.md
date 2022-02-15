@@ -5,8 +5,8 @@
    * 🌱 currently trying to improve my problem solving skills
    * 💯 currently trying to be expert in React
    * 👯 looking to collaborate with React developers
-    * 💬 Ask me about anything here
-  * ⚡ Fun fact: Have high passion to learn anything new related to field
+   * 💬 Ask me about anything here
+   * ⚡ Fun fact: Have high passion to learn anything new related to field
 
 ### Connect with me: 
 
