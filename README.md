@@ -1,12 +1,12 @@
 ### Hi There, 👋 I'm Otabek
 
-* 🙎🏻‍♂️ I'm...
-    * 🔭 currently working on myself 🤓
-    * 🌱 currently trying to improve my problem solving skills
-    * 💯 currently trying to be expert in React
-    * 👯 looking to collaborate with React developers
-    * 💬 Ask me about anything available in google 😎
-    * ⚡ Fun fact: Have high passion to learn anything that I don't know
+##* 🙎🏻‍♂️ I'm...
+  ##  * 🔭 currently working on Javascript frameworks
+  ##  * 🌱 currently trying to improve my problem solving skills
+  ##  * 💯 currently trying to be expert in React
+  ##  * 👯 looking to collaborate with React developers
+  ##  * 💬 Ask me about anything here
+   ## * ⚡ Fun fact: Have high passion to learn anything new related to field
 
 ### Connect with me: 
 
@@ -44,7 +44,7 @@
 
 
 
-[website]: https://
+[website]: https://otabek.dev/
 [facebook]: https://www.facebook.com/profile.php?id=100043707515577
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/askarov9009
