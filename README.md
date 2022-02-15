@@ -1,16 +1,16 @@
 ### Hi There, 👋 I'm Otabek
 
 ## * 🙎🏻‍♂️ I'm...
-  ###  * 🔭 currently working on Javascript frameworks
-  ###  * 🌱 currently trying to improve my problem solving skills
-  ###  * 💯 currently trying to be expert in React
-  ###  * 👯 looking to collaborate with React developers
-  ###  * 💬 Ask me about anything here
-  # ## * ⚡ Fun fact: Have high passion to learn anything new related to field
+   * 🔭 currently working on Javascript frameworks
+   * 🌱 currently trying to improve my problem solving skills
+   * 💯 currently trying to be expert in React
+   * 👯 looking to collaborate with React developers
+    * 💬 Ask me about anything here
+  * ⚡ Fun fact: Have high passion to learn anything new related to field
 
 ### Connect with me: 
 
-   [<img align="left" target="blank" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+   [<img align="left"  alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
    [<img align="left" alt="Otabek-coder | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
    [<img align="left" alt="statkclee | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
    [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
