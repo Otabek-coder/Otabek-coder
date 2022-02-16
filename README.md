@@ -1,6 +1,6 @@
 ### Hi There, 👋 I'm Otabek
 
-## * 🙎🏻‍♂️ I'm...
+ * 🙎🏻‍♂️ I'm...
    * 🔭 currently working on Javascript frameworks
    * 🌱 currently trying to improve my problem solving skills
    * 💯 currently trying to be expert in React
