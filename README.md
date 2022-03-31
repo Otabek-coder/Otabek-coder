@@ -2,7 +2,7 @@
 
  * 🙎🏻‍♂️ I'm...
    * 🔭 currently working on Javascript libraries & frameworks
-   * 🌱 currently trying to improve my problem solving skills
+   * 🌱 currently trying to create more contents
    * 💯 currently trying to be expert in React
    * 👯 looking to collaborate with React developers
    * 💬 Ask me about anything here
